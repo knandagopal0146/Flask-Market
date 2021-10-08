@@ -1,3 +1,3 @@
 # Flask-Market
 
-A Market where user can sell and purchase items
+A Market Website where user can sell and purchase items
